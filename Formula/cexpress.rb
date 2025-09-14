@@ -2,7 +2,7 @@ class Cexpress < Formula
   desc "Lightweight HTTP server framework for C (Express.js-like patterns)"
   homepage "https://github.com/Karl-Michaud/CExpress"
   url "https://github.com/Karl-Michaud/CExpress/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "7ac1ecbe5f5985dafd8cb5e57292440629103c4a678a14f3f01ee708a0daaf3a"
   license "GPL-3.0-or-later"
   version "1.0.0"
 
