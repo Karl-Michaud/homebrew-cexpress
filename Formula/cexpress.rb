@@ -1,10 +1,10 @@
 class Cexpress < Formula
   desc "Lightweight HTTP server framework for C (Express.js-like patterns)"
   homepage "https://github.com/Karl-Michaud/CExpress"
-  url "https://github.com/Karl-Michaud/CExpress/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/Karl-Michaud/CExpress/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   license "GPL-3.0-or-later"
-  version "0.1.0"
+  version "1.0.0"
 
   def install
     # ensure Makefile supports PREFIX; install headers & libs into Homebrew prefix
